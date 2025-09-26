@@ -1,4 +1,4 @@
-## Hi there 👋I'm Kanila Ktaich
+## Hi there 👋I'm Kamila Ktaich
 
 <!--
 **ktaichkamila/ktaichkamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
